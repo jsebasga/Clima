@@ -25,4 +25,4 @@ Everybody who wants to use this application, ¡¡¡
 # Enjoy it !!!
 
 ![Main Screen](Clima.png)
-![Main Screen](Clima 2.png)
+![Main Screen](Clima2.png)
